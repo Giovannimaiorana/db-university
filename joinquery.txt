@@ -30,6 +30,7 @@ ORDER BY `students`.`surname`, `students`. `name`;
 
 5. selezionare tutti i corsi di laurea con i relativi corsi e insegnanti 
 
+
 6. selezionare tutti i docenti che insegnano nel dipartimento di matematica 
 
 7. BONUS selezionar per ogni studente quanti tentativi d'esame ha sostenuto per superare ciascuno dei suoi esami 
